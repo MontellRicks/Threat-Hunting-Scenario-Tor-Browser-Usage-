@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Montell Ricks
-- **Author Contact**: https://www.linkedin.com/in/montellricks/
+- **Author Contact**: https://www.linkedin.com/in/montellricks
 - **Date**: March 4, 2025
 
 ## Validated By:
